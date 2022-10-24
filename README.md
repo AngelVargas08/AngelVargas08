@@ -7,7 +7,7 @@ always learning new things! </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a mobile/web  developer.
 - 🌱 &nbsp; Learning more about Flutter and create elegant and modern websites and mobile applications.
-- ✍️ &nbsp; Hobbies: Graphic Design, videogames and play soccer.
+- ✍️ &nbsp; Hobbies: videogames and gym.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
